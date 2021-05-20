@@ -135,7 +135,7 @@ const fi = (function() {
     },
 
     keys: function(obj) {
-      // Using for loop
+
       const keys = []
       for (let key in obj){
         keys.push(key)
